@@ -1,0 +1,15 @@
+# SauceDemo – Testare manuală & automatizată (Java + Selenium + TestNG)
+
+
+## Cerințe
+- Java 17, Maven, Chrome
+
+
+## Rulare
+mvn clean test
+
+
+## Structură
+- Test Plan & Test Cases: /docs
+- Cod: /src
+- Rapoarte: /target/surefire-reports
